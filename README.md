@@ -5,7 +5,9 @@
 I am currently working as a web developer. <br/>
 I like programming and reading books. <br/>
 And we can discuss it all night whenever you want
+
 <br/>
+
 ### 💫 Experience
 
 - **Redpensoft** - Front-end developer *(April 2023 ~)*
@@ -74,16 +76,14 @@ src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
 <tr>
 <td valign="top" width="50%">
 
-<img align="left" style="width: 100%"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=greattitjy&show_icons=true&locale=en&layout=compact"
-alt="greattitjy" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=greattitjy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td>
 
 <td valign="top" width="50%">
 
-<img  align="left" style="width: 100%"
-src="https://github-readme-stats.vercel.app/api?username=greattitjy&show_icons=true&locale=en" alt="greattitjy" />
+<img align="left" style="width: 100%"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=greattitjy&hide_border=true&layout=compact"
+alt="greattitjy" />
 
 </td>
 </tr>
